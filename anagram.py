@@ -1,6 +1,6 @@
 """
 Given two strings, determine if they are equal after reordering.
-
+####
 Examples:
 "apple", "pleap"  -> True
 "apple", "cherry" -> False
